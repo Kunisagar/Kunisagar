@@ -1,5 +1,5 @@
 <div align="center">
-#👋** Hello, I'm Sagar 😊**
+<h1 align="center"style="bold">👋 Hello, I'm Sagar</h1>
 
 #💫 About Me:
 
