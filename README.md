@@ -10,7 +10,7 @@
 
  🌐 Connect With Me:
 
- LinkedIn: https://linkedin.com/in/Kunisagar
+ LinkedIn: www.linkedin.com/in/sagarkuni
 
 💻 Tech Stack:
 
